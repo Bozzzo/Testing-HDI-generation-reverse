@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Calculation:scenario xmlns:Calculation="http://www.sap.com/ndb/BiModelCalculation.ecore" id="CalculationView_2" applyPrivilegeType="NONE" dataCategory="CUBE" dimensionType="" schemaVersion="3.0" defaultClient="$$client$$" visibility="reportingEnabled" outputViewType="Aggregation" calculationScenarioType="TREE_BASED" cacheInvalidationPeriod="DAILY" enforceSqlExecution="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<descriptions defaultDescription="CalculationView 2"/>
+<localVariables/>
+<variableMappings/>
+<dataSources/>
+<calculationViews>
+<calculationView/>
+</calculationViews>
+<logicalModel id="Join_-1">
+<attributes/>
+<calculatedAttributes/>
+<baseMeasures/>
+<calculatedMeasures/>
+<restrictedMeasures/>
+<localDimensions/>
+</logicalModel>
+<layout>
+<shapes>
+<shape expanded="true" modelObjectName="Output" modelObjectNameSpace="MeasureGroup">
+<upperLeftCorner x="40" y="85"/>
+</shape>
+</shapes>
+</layout>
+</Calculation:scenario>
