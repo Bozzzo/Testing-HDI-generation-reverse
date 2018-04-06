@@ -1,0 +1,5 @@
+entity "Entity_1" {
+   }
+technical configuration {
+   column store;
+};
